@@ -28,4 +28,5 @@ git push -u my1  HEAD:master
 reload your repository on github
 ### see:https://stackoverflow.com/questions/48349103/update-my-repository-on-github
 ### answer of user1561783
+### and git pull https://github.com/perlov3301/deploydist1 master  --allow-unrelated-histories
 
