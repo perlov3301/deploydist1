@@ -23,7 +23,7 @@ git push -u origin master
 ## this works
 git add -A
 git commit -m "comment"
-git remote add my1  https://github.com/perlov3301/deploygary140420.git
+git remote add my1  https://github.com/perlov3301/deploydist1.git
 git push -u my1  HEAD:master
 reload your repository on github
 ### see:https://stackoverflow.com/questions/48349103/update-my-repository-on-github
