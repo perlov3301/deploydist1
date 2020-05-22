@@ -292,6 +292,7 @@ Apache-2.0
  
 
 
+<<<<<<< HEAD
 tslib
 Apache-2.0
 Apache License
@@ -351,6 +352,8 @@ If the Work includes a "NOTICE" text file as part of its distribution, then any 
 END OF TERMS AND CONDITIONS
 
 
+=======
+>>>>>>> ea290eb319483e0bde8bc97836690eb51d067545
 zone.js
 MIT
 The MIT License
